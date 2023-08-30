@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:meuapp/model/aluno_model.dart';
 import 'package:meuapp/utils/constantes.dart';
 import 'package:http/http.dart' as http;

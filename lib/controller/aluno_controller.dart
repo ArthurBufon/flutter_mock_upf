@@ -1,7 +1,7 @@
 import 'package:meuapp/model/aluno_model.dart';
 import 'package:meuapp/model/aluno_repository.dart';
 
-class AlunosController {
+class AlunoController {
 
   // Injeção de dependências.
   AlunoRepository alunoRepository = AlunoRepository();
