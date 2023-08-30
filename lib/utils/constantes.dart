@@ -1,0 +1,1 @@
+const urlBaseApi = "https://64e5538ec555638029144f15.mockapi.io";
